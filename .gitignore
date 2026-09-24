@@ -1,0 +1,8 @@
+# build artifacts
+*.class
+
+# generated preview images
+preview*.png
+
+# macOS
+.DS_Store
